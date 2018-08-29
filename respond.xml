@@ -1,5 +1,4 @@
-<Respond>
-<Sms>
-hey Jake
-</Sms>
-</Respond>
+<Response>
+    <Message>hey</Message>
+    <Redirect>https://demo.twilio.com/sms/welcome</Redirect>
+</Response>
